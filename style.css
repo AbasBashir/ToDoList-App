@@ -8,3 +8,12 @@
 html{
     font-size: 62.5%;
 }
+
+body{
+    position: relative;
+    background: url(images/office.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
